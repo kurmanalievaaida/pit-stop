@@ -1,0 +1,8 @@
+{
+  "name": "PIT STOP",
+  "description": "Karaoke bar, restaurant and lounge in Kant, Kyrgyzstan with authentic food and bar menu, VIP rooms, and Google Maps location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
